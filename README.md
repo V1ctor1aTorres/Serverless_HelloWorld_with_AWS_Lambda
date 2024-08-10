@@ -1,6 +1,6 @@
 # Executando uma função Lambda
 
-[Tutorial: https://aws.amazon.com/pt/tutorials/run-serverless-code/#](https://aws.amazon.com/pt/tutorials/run-serverless-code/#)
+[Run a Serverless "Hello, World!" with AWS Lambda](https://aws.amazon.com/pt/tutorials/run-serverless-code/#)
 
 ##  Criar a função Lambda a partir de um blueprint:
 - Nome do esquema e da função lambda
