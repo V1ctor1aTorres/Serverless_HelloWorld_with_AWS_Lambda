@@ -5,7 +5,7 @@
 ##  Criar a função Lambda a partir de um blueprint:
 - Nome do esquema e da função lambda
   <img src="https://github.com/V1ctor1aTorres/Serverless_HelloWorld_with_AWS_Lambda/blob/main/images/criar_funcao1.png">
-- Role com as funções para invocar a função lambda
+- Role com as permissões para invocar a função lambda
   <img src="https://github.com/V1ctor1aTorres/Serverless_HelloWorld_with_AWS_Lambda/blob/main/images/criar_funcao2.png">
 
 ## Invocar a função Lambda e verificar os resultados:
